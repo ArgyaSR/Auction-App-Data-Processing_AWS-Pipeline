@@ -3,8 +3,7 @@
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Apache Kafka](https://img.shields.io/badge/Kafka-3.6-orange.svg)](https://kafka.apache.org/)
 [![Apache Spark](https://img.shields.io/badge/Spark-3.5-yellow.svg)](https://spark.apache.org/)
-[![AWS](https://img.shields.io/badge/AWS-Free%20Tier-orange.svg)](https://aws.amazon.com/free/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![AWS](https://img.shields.io/badge/AWS-Free.svg)](https://aws.amazon.com/free/)
 
 A production-grade, end-to-end data pipeline for processing real-time auction bids and batch analytics. This project presents a prime integration of cloud and open-source tools for scalable ETL processes, streaming data, and data visualization based on client requirements.
 
@@ -71,7 +70,7 @@ Now the client needs a solution to efficiently process all batch data (for physi
 
 **Programming Language** - [Python](https://www.python.org/) ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 
-**Cloud Infrastructure** - [Amazon Web Services (AWS)](https://aws.amazon.com/) ![AWS](https://img.shields.io/badge/AWS-Free%20Tier-orange?logo=amazonaws&logoColor=white)
+**Cloud Infrastructure** - [Amazon Web Services (AWS)](https://aws.amazon.com/) ![AWS](https://img.shields.io/badge/AWS-Free?logo=amazonaws&logoColor=white)
 
 **Event Streaming** - [Apache Kafka](https://kafka.apache.org/) ![Kafka](https://img.shields.io/badge/Kafka-3.6-black?logo=apachekafka&logoColor=white)
 
@@ -157,9 +156,8 @@ Now the client needs a solution to efficiently process all batch data (for physi
 
 **Apache Spark** was selected over Apache Flink for processing because:
 1. Spark's PySpark API is more mature and full-featured for Python development
-2. Spark skills are more widely requested in job postings, adding portfolio value
-3. The micro-batch latency (~100ms) is sufficient for auction systems
-4. Same DataFrame API works for both batch and streaming, reducing code complexity
+2. The micro-batch latency (~100ms) is sufficient for auction systems
+3. Same DataFrame API works for both batch and streaming, reducing code complexity
 
 **PostgreSQL** serves as the operational database (Silver layer) because it provides ACID compliance for transaction integrity, supports complex queries for application needs, and integrates seamlessly with both Spark and visualization tools.
 
@@ -578,19 +576,6 @@ Through the solution created, the main business needs for the client have been m
 ✅ **Deploy cost-effectively** within AWS Free Tier constraints using Terraform
 
 The functional and non-functional requirements for this solution have been carefully considered in the design and implementation, and this pipeline can be scaled up or improved when there is a technical and practical reason to do so. The architecture decisions are documented in ADRs for future reference and onboarding.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Apache Kafka](https://kafka.apache.org/) for the streaming platform
-- [Apache Spark](https://spark.apache.org/) for data processing
-- [Confluent](https://developer.confluent.io/) for Kafka documentation
-- [DuckDB](https://duckdb.org/) for embedded analytics
 
 ---
 
